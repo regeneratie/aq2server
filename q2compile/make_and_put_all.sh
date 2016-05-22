@@ -104,7 +104,7 @@ function main {
     makeit[3]=""
 
     repo[4]="gs_starter"
-    url[4]="git://b4r.org/gs_starter"
+    url[4]="https://github.com/PaulKlumpp/linux-gameserver-starter.git"
     cleanit[4]=""
     makeit[4]=""
 
